@@ -1,5 +1,5 @@
 
-# Measuring Parkinson’s disease progression
+# Measuring Parkinson’s Disease Progression
 
 This repository studies the performance of various regressor models on the prediction of progression of the Parkinson’s disease’s total and motor UPDRS metrics. The studied models are Random Forest Regressor (RFR), Support Vector Regressor (SVR), Multi Layer Perceptron networks (MLP), Gradient Boosting (GBR) and Adaptive Neuro-fuzzy Inference System (ANFIS).
 These models where tested on a variety of configurations, involving
